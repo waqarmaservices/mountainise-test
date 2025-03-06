@@ -39,3 +39,6 @@ Mailtrap is used for email testing.
 Total contacts processed: 4
 Deals Updated: 4
 New Deals Created: 0
+
+## For testing after running the project make a GET request to:
+http://localhost:3000/hubspot/process/contacts
